@@ -1,5 +1,0 @@
-c:\users\desarrollo6\documents\visual studio 2015\Projects\Bonus.MvcWebApp\Bonus.MvcWebApp.Common\bin\Debug\Bonus.MvcWebApp.Common.dll
-c:\users\desarrollo6\documents\visual studio 2015\Projects\Bonus.MvcWebApp\Bonus.MvcWebApp.Common\bin\Debug\Bonus.MvcWebApp.Common.pdb
-c:\users\desarrollo6\documents\visual studio 2015\Projects\Bonus.MvcWebApp\Bonus.MvcWebApp.Common\obj\Debug\Bonus.MvcWebApp.Common.csprojResolveAssemblyReference.cache
-c:\users\desarrollo6\documents\visual studio 2015\Projects\Bonus.MvcWebApp\Bonus.MvcWebApp.Common\obj\Debug\Bonus.MvcWebApp.Common.dll
-c:\users\desarrollo6\documents\visual studio 2015\Projects\Bonus.MvcWebApp\Bonus.MvcWebApp.Common\obj\Debug\Bonus.MvcWebApp.Common.pdb
